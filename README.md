@@ -15,3 +15,8 @@
 - exercise-ES6.js
 - ES6-Solution.zip
 - ES6.zip
+
+## 5.- Using Classes to create Objects
+- Classes.zip
+- Classes-Solution.zip
+- exercise-classes.js
