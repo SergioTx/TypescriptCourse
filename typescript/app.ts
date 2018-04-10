@@ -1,12 +1,8 @@
-//import namespaces
-/// <reference path="circleMath.ts" />
-/// <reference path="rectangleMath.ts" />
-//assign alias
-import CircleMath = MyMath.Circle;
+import * as Circle from './math/circle';
+// import { calculateRectangle } from './math/rectangle';
+import calc from './math/rectangle';
 
-const PI = 2.99;
-
-console.log(MyMath.calculateRectangle(10, 20));
-console.log(MyMath.Circle.calculateCircumference(3));
-console.log(CircleMath.calculateCircumference(3));
-console.log(PI);
+console.log(Circle.PI);
+console.log(Circle.calculateCircumference(10));
+// console.log(calculateRectangle(20, 50));
+console.log(calc(20, 50));

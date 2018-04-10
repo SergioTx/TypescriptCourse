@@ -20,3 +20,7 @@
 - Classes.zip
 - Classes-Solution.zip
 - exercise-classes.js
+
+## 6.- Namespaces & modules
+- ts-modules.pdf
+- Modules.zip

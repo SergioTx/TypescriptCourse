@@ -1,3 +1,4 @@
+"use strict";
 var MyMath;
 (function (MyMath) {
     function calculateRectangle(width, length) {
@@ -5,3 +6,4 @@ var MyMath;
     }
     MyMath.calculateRectangle = calculateRectangle;
 })(MyMath || (MyMath = {}));
+//# sourceMappingURL=rectangleMath.js.map
