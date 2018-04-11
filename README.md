@@ -25,5 +25,10 @@
 - ts-modules.pdf
 - Modules.zip
 
-## 6.- Doing contract work with Interfaces
+## 7.- Doing contract work with Interfaces
 - Interfaces.zip
+
+## 8.- Generics
+- exercise-generics.txt
+- Generics-Solution.zip
+- Generics.zip
