@@ -24,3 +24,6 @@
 ## 6.- Namespaces & modules
 - ts-modules.pdf
 - Modules.zip
+
+## 6.- Doing contract work with Interfaces
+- Interfaces.zip
