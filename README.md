@@ -35,3 +35,6 @@
 
 ## 9.- Behind the scenes with Decorators
 - Decorators.zip
+
+## 10.- Using JavaScript Libraries (like jQuery) with TypeScript
+- Third-Party-Libraries.zip

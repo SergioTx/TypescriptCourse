@@ -7,8 +7,18 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <script src="node_modules/systemjs/dist/system.js"></script>
+
+</head>
+
+<body>
+    <div id="app">
+        Change it with JQuery
+    </div>
     <script>
         SystemJS.config({
+            map: {
+                'jQuery': 'node_modules/jquery/dist/jquery.min.js'
+            },
             baseURL: '/',
             packages: {
                 '/': {
@@ -18,10 +28,6 @@
         });
         SystemJS.import('app.js');
     </script>
-</head>
-
-<body>
-
 </body>
 
 </html>
