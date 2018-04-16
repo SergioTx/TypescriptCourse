@@ -38,3 +38,8 @@
 
 ## 10.- Using JavaScript Libraries (like jQuery) with TypeScript
 - Third-Party-Libraries.zip
+
+## 11.- TypeScript Workflows
+- TS-Workflow.zip
+- TS-Workflow-Gulp.zip
+- TS-Workflow-Webpack.zip
